@@ -59,7 +59,7 @@ The model is trained for 5 epochs, and the results are evaluated using accuracy.
 
 ## 4. Installation
 Prerequisites
-- Python 3.7 or later-
+- Python 3.7 or later
 - NumPy
 - Matplotlib
 
